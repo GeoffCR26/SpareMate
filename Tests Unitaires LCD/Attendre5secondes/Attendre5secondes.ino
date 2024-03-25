@@ -1,5 +1,5 @@
 /************************************************************************
-Description du code : Affichage d'une chaîne de charactères sur deux lignes
+Description du code : Affichage après 5s
 Auteur : RAMOS Geoffrey
 Date : 13/03/2024
 Version : V1
